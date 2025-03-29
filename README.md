@@ -2,6 +2,10 @@
 
 This project is a user management application built using Vite, React, Shadcn UI, Axios, and Context API. It allows users to log in, view a paginated list of users, and edit or delete user details.
 
+# Credential Details
+
+○ Email : eve.holt@reqres.in
+○ Password : cityslicka
 
 ## Getting Started
 
@@ -31,3 +35,7 @@ This project is a user management application built using Vite, React, Shadcn UI
 
 5.  **Open your browser and navigate to `http://localhost:5173` (or the port shown in your terminal).**
 
+6.  **Login Using Given Credential**
+
+    ○ Email : eve.holt@reqres.in
+    ○ Password : cityslicka
